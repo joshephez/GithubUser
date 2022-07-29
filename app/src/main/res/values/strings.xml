@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="acircle_symbol">\u0040 character</string>
+</resources>
